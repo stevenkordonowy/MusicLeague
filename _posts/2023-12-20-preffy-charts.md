@@ -5,6 +5,10 @@ date: 2023-12-20
 
 First taste of the preference charts for everyone! 
 
+Here is the scale, low voting is on the left, high voting is on the right b/c yellow is the best:
+
+![image info](../../../assets/img/scale.png)
+
 Adam:
 ![image info](../../../assets/img/AdBu.png)
 
