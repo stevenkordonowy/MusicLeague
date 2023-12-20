@@ -1,6 +1,8 @@
 ---
-title: "First-fuckin-post"
-date: 2023-09-15
+title: "Preference charts"
+date: 2023-12-20
 ---
 
-Homies in the back
+First taste of the preference charts for everyone! 
+
+![image info](assets/img/Steven.png)
