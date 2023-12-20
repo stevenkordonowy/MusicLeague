@@ -1,5 +1,5 @@
 ---
-title: "Preference charts"
+title: "Preference-charts"
 date: 2023-12-20
 ---
 
