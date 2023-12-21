@@ -12,3 +12,6 @@ Trying shit out, like embedding spotify songs.
         allow="encrypted-media">
     </iframe>
 </div>
+
+![image info](../../../assets/img/AdBu.png)
+<img src="../../../assets/img/AdBu.png" width="2000" height="2000" />

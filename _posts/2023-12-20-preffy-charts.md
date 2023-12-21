@@ -11,7 +11,6 @@ Here is the scale, low voting is on the left, high voting is on the right b/c ye
 
 Adam:
 ![image info](../../../assets/img/AdBu.png)
-<img src="../../../assets/img/AdBu.png" width="2000" height="2000" />
 
 Watt:
 ![image info](../../../assets/img/AnWa.png)
