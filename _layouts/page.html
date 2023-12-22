@@ -1,23 +1,14 @@
 ---
-layout: default
+layout: base
 ---
-<div class="post">
+<article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <h5 class="post-description">{{ page.description }}</h5>
+    <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  <article class="post-content {{page.title}} clearfix">
+  <div class="post-content">
     {{ content }}
-  </article>
+  </div>
 
-  {% if page.news %}
-    {% include news.html %}
-  {% endif %}
-
-  {% if page.social %}
-    {% include social.html %}
-  {% endif %}
-
-</div>
+</article>
