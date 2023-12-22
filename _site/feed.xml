@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-21T17:29:30-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MusicLeague</title><subtitle>My clone repository</subtitle><entry><title type="html">playground</title><link href="http://localhost:4000/2023/12/21/playground.html" rel="alternate" type="text/html" title="playground" /><published>2023-12-21T00:00:00-08:00</published><updated>2023-12-21T00:00:00-08:00</updated><id>http://localhost:4000/2023/12/21/playground</id><content type="html" xml:base="http://localhost:4000/2023/12/21/playground.html">&lt;p&gt;Trying shit out, like embedding spotify songs.&lt;/p&gt;
+
+&lt;div class=&quot;embed-spotify-song&quot;&gt;
+    &lt;iframe src=&quot;https://open.spotify.com/embed/track/0hUUCxji9cN0gb8Twf0a0n&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/AdBu.png&quot; alt=&quot;image info&quot; /&gt;
+&lt;img src=&quot;../../../assets/img/AdBu.png&quot; width=&quot;2000&quot; height=&quot;2000&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Trying shit out, like embedding spotify songs.</summary></entry><entry><title type="html">Preference-charts</title><link href="http://localhost:4000/2023/12/20/preffy-charts.html" rel="alternate" type="text/html" title="Preference-charts" /><published>2023-12-20T00:00:00-08:00</published><updated>2023-12-20T00:00:00-08:00</updated><id>http://localhost:4000/2023/12/20/preffy-charts</id><content type="html" xml:base="http://localhost:4000/2023/12/20/preffy-charts.html">&lt;p&gt;First taste of the voting preferences for everyone!&lt;/p&gt;
+
+&lt;p&gt;An arrow A -&amp;gt; B indicates that person A votes for person B according to the following scale (low voting is on the left, high voting is on the right b/c yellow is the best):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/scale.png&quot; alt=&quot;image info&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;adam&quot;&gt;Adam:&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/prefs/AdBu.png&quot; alt=&quot;image info&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The people Adam downvoted the most:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ashley (5 times)&lt;/li&gt;
+  &lt;li&gt;Hannah (4 times)&lt;/li&gt;
+  &lt;li&gt;Eleni (3 times)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;(Sexist?)&lt;/p&gt;
+
+&lt;h1 id=&quot;andrew-watt&quot;&gt;Andrew Watt:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/prefs/AnWa.png&quot; alt=&quot;image info&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The people Andy downvoted the most:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ashley (4 times)&lt;/li&gt;
+  &lt;li&gt;Adam (3 times)&lt;/li&gt;
+  &lt;li&gt;Steven (2 times) ((Dick!))&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;wilk&quot;&gt;Wilk:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/prefs/AnWi.png&quot; alt=&quot;image info&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The people Wilk downvoted the most:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Samuel basic (3 times)&lt;/li&gt;
+  &lt;li&gt;George Harrison (3 times)&lt;/li&gt;
+  &lt;li&gt;Kayla Marie (3 times)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;ashley&quot;&gt;Ashley:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/prefs/AsBe.png&quot; alt=&quot;image info&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The people Ashley downvoted the most:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Eleni Murphy (3 times)&lt;/li&gt;
+  &lt;li&gt;Katie (3 times)&lt;/li&gt;
+  &lt;li&gt;Samuel basic (2 times)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;chelsea&quot;&gt;Chelsea:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/prefs/ChKl.png&quot; alt=&quot;image info&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The people Chelsea downvoted the most:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;George Harrison (5 times)&lt;/li&gt;
+  &lt;li&gt;Ashley Berset (3 times)&lt;/li&gt;
+  &lt;li&gt;Alex Glennon (2 times) ((barely counts but w/e))&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;eleni&quot;&gt;Eleni:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/prefs/ElMu.png&quot; alt=&quot;image info&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The people Eleni downvoted the most:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Ashley Berset (5 times)&lt;/li&gt;
+  &lt;li&gt;Kayla Marie (3 times)&lt;/li&gt;
+  &lt;li&gt;Andrew Wilkinson (3 times)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;katie&quot;&gt;Katie:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/prefs/fl.png&quot; alt=&quot;image info&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The people Katie downvoted the most:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Ashley Berset (4 times)&lt;/li&gt;
+  &lt;li&gt;Samuel basic (2 times)&lt;/li&gt;
+  &lt;li&gt;George Harrison (2 times)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;george-gus&quot;&gt;George (Gus):&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/prefs/GeHa.png&quot; alt=&quot;image info&quot; /&gt;
+The people George Harrison downvoted the most:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Andrew Wilkinson (3 times)&lt;/li&gt;
+  &lt;li&gt;Alex Glennon (2 times)&lt;/li&gt;
+  &lt;li&gt;Adam Burger (2 times)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Fun fact: Gus and I have the same birthday!! August 22, last day of leo szn, RAWR!&lt;/p&gt;
+
+&lt;h1 id=&quot;hannah&quot;&gt;Hannah:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/prefs/HaRo.png&quot; alt=&quot;image info&quot; /&gt;
+The people Hannah Rose downvoted the most:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Samuel basic (2 times)&lt;/li&gt;
+  &lt;li&gt;Eleni Murphy (2 times)&lt;/li&gt;
+  &lt;li&gt;Steven (1 times)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;kayla&quot;&gt;Kayla:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/prefs/KaMa.png&quot; alt=&quot;image info&quot; /&gt;
+The people Kayla Marie downvoted the most:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Ashley Berset (4 times)&lt;/li&gt;
+  &lt;li&gt;Andrew Watt (2 times)&lt;/li&gt;
+  &lt;li&gt;Chelsea Kline (2 times)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;kevin&quot;&gt;Kevin:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/prefs/ky.png&quot; alt=&quot;image info&quot; /&gt;
+Kev has yet to participate in a downvote round! Truly a lover.&lt;/p&gt;
+
+&lt;h1 id=&quot;sam&quot;&gt;Sam:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/prefs/Saba.png&quot; alt=&quot;image info&quot; /&gt;
+The people Samuel basic downvoted the most:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Hannah Rose (4 times)&lt;/li&gt;
+  &lt;li&gt;Eleni Murphy (3 times)&lt;/li&gt;
+  &lt;li&gt;Andrew Watt (2 times)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;steven&quot;&gt;Steven:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/prefs/St.png&quot; alt=&quot;image info&quot; /&gt;
+The people Steven downvoted the most:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Kayla Marie (4 times)&lt;/li&gt;
+  &lt;li&gt;Andrew Watt (3 times)&lt;/li&gt;
+  &lt;li&gt;Hannah Rose (3 times)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Apparently I am not a fan of the Watt couple? I find that hard to believe.&lt;/p&gt;
+
+&lt;h1 id=&quot;tyler&quot;&gt;Tyler:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/img/prefs/TyJo.png&quot; alt=&quot;image info&quot; /&gt;
+The people Tyler John downvoted the most:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Steven (3 times) ((Dick!))&lt;/li&gt;
+  &lt;li&gt;kyvin (3 times)&lt;/li&gt;
+  &lt;li&gt;Samuel basic (2 times)&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">First taste of the voting preferences for everyone!</summary></entry></feed>
