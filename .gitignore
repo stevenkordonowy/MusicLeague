@@ -39,3 +39,5 @@ Thumbs.db
 # _site stuff only is helpful for local #
 #########################################
 _site/
+.cache
+.vscode/
